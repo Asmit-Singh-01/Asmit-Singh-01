@@ -23,8 +23,6 @@ Independent Systems Architect and Technical Researcher. Operating from first pri
 
 ## 📊 GitHub Analytics Engine
 
-⚡ *Note: Niche diye gaye metrics automatic refresh hote hain jaise hi hum repositories mein code push karenge.*
-
 ### 🛠️ Language Breakdown
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit-Singh-01&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/Asmit-Singh-01)
 
