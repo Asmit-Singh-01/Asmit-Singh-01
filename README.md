@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hello 👋 
+# Asmit Singh
 
-<!--
-**Asmit-Singh-01/Asmit-Singh-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent Systems Architect and Technical Researcher. Operating from first principles to design autonomous software-hardware pipelines, explore reasoning model limits, and build high-leverage infrastructure.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Core Domain Intersections
+- **Intelligent Architectures:** Designing deterministic control loops and stress-testing large reasoning models (LLMs) under lossy semantic compression.
+- **Physical-Digital Mechanics:** Exploring systems engineering pipelines, Linux core logic, and computational efficiency bottlenecks.
+- **First-Principles Scaling:** Deconstructing complex automation setups down to foundational physics and mathematical truths.
+
+## 🔬 Current Active Benchmarks
+- **`cot-collapse-benchmarks`**: Investigating the exact logical decay and performance limits of Chain-of-Thought pipelines.
+- **Automation Core**: Building specialized terminal scripts for low-latency system tasks.
+
+## 🛠️ Stack & Tooling Matrix
+- `Language Logic:` Python, C++
+- `Environment:` Linux (Ubuntu Core), Git Terminal, Automation Pipelines
+
+---
+> "The code we write must directly compute reality."
+> 
