@@ -1,40 +1,14 @@
-# Asmit Singh
+# 💫 About Me:<br>Hi, I'm Asmit Singh! 👋<br><br>I am a Computer Science student and systems engineering researcher. I operate from first principles to design low-level software pipelines, analyze computational systems, and stress-test autonomous architectures.<br><br>- 🔭 **Past & Current Work:** Developed a deterministic benchmarking suite to evaluate logical degradation patterns in reasoning models.<br>- 🎓 **Education & Focus:** Pursuing Computer Science with a core specialization in Systems Architecture and Linux Core automation logic.<br>- 🛠️ **Built Infrastructures:** Deployed an automated JSON-pipeline engine (`cot-collapse-benchmarks`) to map token-to-logic limits.<br>- 🧠 **Technical Domain:** Deeply engaged with Unix/Linux environments, performance analytics, and deterministic scripting.<br><br>---<br>> "The code we write must directly compute reality."<br>
 
-Independent Systems Architect and Technical Researcher. Operating from first principles to design autonomous software-hardware pipelines, explore reasoning model limits, and build high-leverage infrastructure.
 
----
-
-## 🛠️ Tech Stack & Tooling Matrix
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Terminal](https://img.shields.io/badge/terminal-%234D4D4D.svg?style=for-the-badge&logo=the-rackspace-cloud&logoColor=white)
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Asmit-Singh-01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Asmit-Singh-01&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Asmit-Singh-01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Asmit-Singh-01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🔬 Core Domain Intersections
-- **Intelligent Architectures:** Designing deterministic control loops and stress-testing large reasoning models (LLMs) under lossy semantic compression.
-- **Physical-Digital Mechanics:** Exploring systems engineering pipelines, Linux core logic, and computational efficiency bottlenecks.
-- **First-Principles Scaling:** Deconstructing complex automation setups down to foundational physics and mathematical truths.
-
----
-
-## 📊 GitHub Analytics Engine
-
-### 🛠️ Language Breakdown
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit-Singh-01&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/Asmit-Singh-01)
-
-### 📈 Core Metrics & Verification
-[![Asmit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asmit-Singh-01&show_icons=true&theme=vision-friendly-dark&hide_border=true)](https://github.com/Asmit-Singh-01)
-
----
-
-## 🧪 Current Active Benchmarks
-- **`cot-collapse-benchmarks`**: Investigating the exact logical decay and performance limits of Chain-of-Thought pipelines.
-- **Automation Core**: Building specialized terminal scripts for low-latency system tasks.
-
----
-> "The code we write must directly compute reality."
-> 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
